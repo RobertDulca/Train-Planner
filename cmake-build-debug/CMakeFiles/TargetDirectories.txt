@@ -1,0 +1,3 @@
+C:/Users/MrSnow/Documents/Bachelor FHTW/Semester 1/Prozedurale Sprachen/Zwischentest2_Dulca/cmake-build-debug/CMakeFiles/Zwischentest2_Dulca.dir
+C:/Users/MrSnow/Documents/Bachelor FHTW/Semester 1/Prozedurale Sprachen/Zwischentest2_Dulca/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MrSnow/Documents/Bachelor FHTW/Semester 1/Prozedurale Sprachen/Zwischentest2_Dulca/cmake-build-debug/CMakeFiles/rebuild_cache.dir

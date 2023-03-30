@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Zwischentest2_Dulca",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Zwischentest2_Dulca::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Zwischentest2_Dulca-Debug-694b07788a6eedc3d8fd.json",
+					"name" : "Zwischentest2_Dulca",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/MrSnow/Documents/Bachelor FHTW/Semester 1/Prozedurale Sprachen/Zwischentest2_Dulca/cmake-build-debug",
+		"source" : "C:/Users/MrSnow/Documents/Bachelor FHTW/Semester 1/Prozedurale Sprachen/Zwischentest2_Dulca"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
